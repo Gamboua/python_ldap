@@ -1,0 +1,5 @@
+ldap:
+  server: server.com.br
+  user: usuario
+  password: 123456
+  cn: ",ou=users,dc=allusersbase"
